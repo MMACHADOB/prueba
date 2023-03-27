@@ -1,3 +1,6 @@
+#Esto es un nuevo comentario
+#Ya termine jefe
+
 number = int(input('Digite un número:'))
 # **** OPERACIONES RELACIONALES O DE COMPARACIÓN ****
 # True (1) / False(0)
