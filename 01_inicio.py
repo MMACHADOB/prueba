@@ -1,0 +1,12 @@
+print("**TIPOS DE DATOS PRIMITIVOS**")
+print("Tipo de dato cadena de caracteres")
+print('Cadena de char')
+print("string. (str)")
+segundo_apellido = "Leon"
+print(segundo_apellido)
+print("TIPO DE DATO ENTERO (int)")
+print(34)
+print(1)
+print("Tipo de dato flotante (float)")
+print(3.14)
+print(2.71)
